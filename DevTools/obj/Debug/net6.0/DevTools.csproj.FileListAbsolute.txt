@@ -1,0 +1,12 @@
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\bin\Debug\net6.0\DevTools.deps.json
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\bin\Debug\net6.0\DevTools.dll
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\bin\Debug\net6.0\DevTools.pdb
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\obj\Debug\net6.0\DevTools.csproj.AssemblyReference.cache
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\obj\Debug\net6.0\DevTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\obj\Debug\net6.0\DevTools.AssemblyInfoInputs.cache
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\obj\Debug\net6.0\DevTools.AssemblyInfo.cs
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\obj\Debug\net6.0\DevTools.csproj.CoreCompileInputs.cache
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\obj\Debug\net6.0\DevTools.dll
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\obj\Debug\net6.0\refint\DevTools.dll
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\obj\Debug\net6.0\DevTools.pdb
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\ConsoleApp1\DevTools\obj\Debug\net6.0\ref\DevTools.dll

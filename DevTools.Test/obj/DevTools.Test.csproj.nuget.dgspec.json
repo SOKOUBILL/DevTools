@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\ConsoleApp1\\DevTools.Test\\DevTools.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\ConsoleApp1\\DevTools.Test\\DevTools.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\ConsoleApp1\\DevTools.Test\\DevTools.Test.csproj",
+        "projectName": "DevTools.Test",
+        "projectPath": "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\ConsoleApp1\\DevTools.Test\\DevTools.Test.csproj",
+        "packagesPath": "C:\\Users\\Sokou Billionaire\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\ConsoleApp1\\DevTools.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sokou Billionaire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
