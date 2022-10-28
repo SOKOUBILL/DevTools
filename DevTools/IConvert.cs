@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DevTools
 {
-    internal interface IConvert
+    public interface IConvert
     {
+        string[,] GetMultiDimArrayFrom<T>(ICollection<T> list);
+        string[,] GetMultiDimArrayFrom<T>(ICollection<T> list, ICollection<string> excludeProps);
+        string[,] GetMultiDimArrayFrom(IDictionary<string, IEnumerable<string>> datas);
     }
 }

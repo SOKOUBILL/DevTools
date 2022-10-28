@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\ConsoleApp1\\DevTools\\DevTools.csproj": {}
+    "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\DevTools\\DevTools\\DevTools.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\ConsoleApp1\\DevTools\\DevTools.csproj": {
+    "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\DevTools\\DevTools\\DevTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\ConsoleApp1\\DevTools\\DevTools.csproj",
+        "projectUniqueName": "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\DevTools\\DevTools\\DevTools.csproj",
         "projectName": "DevTools",
-        "projectPath": "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\ConsoleApp1\\DevTools\\DevTools.csproj",
+        "projectPath": "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\DevTools\\DevTools\\DevTools.csproj",
         "packagesPath": "C:\\Users\\Sokou Billionaire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\ConsoleApp1\\DevTools\\obj\\",
+        "outputPath": "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\DevTools\\DevTools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sokou Billionaire\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

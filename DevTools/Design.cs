@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DevTools
 {
-    internal  partial class Design : IDesign
+    public  partial class Design : IDesign
     {
         
     }

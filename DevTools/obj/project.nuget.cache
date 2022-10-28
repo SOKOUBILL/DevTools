@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ys5QcHC/r7FRA3W02yA+m/1RdGhXDZLEW3fGvq9Jp3hNP8/JBzN/EklAOnB/+9Iqg+hX65iGV/41bBOodUXlhQ==",
+  "dgSpecHash": "CO+wN/RDP7vPtLbeL1dR5fIfEbRzUZ7UAUgKiNPA/zqD8L5mcQxMmX/5UsCmSjYW1jzF8QSLdT+cXMTG5ctd7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\ConsoleApp1\\DevTools\\DevTools.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Sokou Billionaire\\Documents\\courscharp\\HomeTraining\\DevTools\\DevTools\\DevTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sokou Billionaire\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
